@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Gittyup
-Comment=Graphical git client
-Exec=/usr/bin/gittyup
+Comment=Graphical Git client (GitAhead fork)
+Exec=gittyup
 Icon=gittyup
 Terminal=false
 Type=Application
